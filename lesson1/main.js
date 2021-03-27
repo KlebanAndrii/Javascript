@@ -89,7 +89,6 @@ str3 = 'four';
 console.log(str3);
 alert(str3);
 document.write(str3);
-*/
 
 /*num = 2;
 console.log(num);
@@ -332,26 +331,28 @@ console.log(d);*/
 //  В однакових виразах в завданні не використовувати два однакових оператора.
 // Кожен вираз вкласти в свою змінну
 
-let numOne = 5 < 6/*true*/
+/*
+let numOne = 5 < 6/!*true*!/
 console.log(numOne);
-let numTwo = 5 > 6  /*false*/
+let numTwo = 5 > 6  /!*false*!/
 console.log(numTwo);
-let numThree = 5 == 6 /*false*/
+let numThree = 5 == 6 /!*false*!/
 console.log(numThree);
-let numFour = 5 === 6  /*false*/
+let numFour = 5 === 6  /!*false*!/
 console.log(numFour);
-let numFive = 10 <= 10 /*true*/
+let numFive = 10 <= 10 /!*true*!/
 console.log(numFive);
-let numSix = 10 >= 10 /*true*/
+let numSix = 10 >= 10 /!*true*!/
 console.log(numSix);
-let numSeven = 10 != 10  /*false*/
+let numSeven = 10 != 10  /!*false*!/
 console.log(numSeven);
-let numEight = 10 > 10 /*false*/
+let numEight = 10 > 10 /!*false*!/
 console.log(numEight);
-let numNine = 10 < 10  /*false*/
+let numNine = 10 < 10  /!*false*!/
 console.log(numNine);
-let numTen = 123 === '123' /*false*/
+let numTen = 123 === '123' /!*false*!/
 console.log(numTen);
-let numEleven = 123 == '123'  /*true*/
+let numEleven = 123 == '123'  /!*true*!/
 console.log(numEleven);
+*/
 
