@@ -273,8 +273,9 @@ console.log(addEnd);
 
 /*let NumberNew = [1, 2, 3];
 
-let NewNumber = NumberNew.reverse();
-console.log(NewNumber);*/
+for (let i = NumberNew.length - 1; i >= 0; --i) {
+    console.log(NumberNew[i]);
+}*/
 
 //- Дан масив [1, 2, 3]. Додайте йому в кінець елементи 4, 5, 6.
 
